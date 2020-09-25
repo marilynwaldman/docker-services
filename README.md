@@ -1,5 +1,14 @@
 ### ElasticSearch Kibana Map example
+
 ##### Taken from https://blog.bigdataboutique.com/2020/03/visualizing-covid-19-spread-with-elasticsearch-and-kibana-part-1-8hbp2u
+
+#### Install Docker
+
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
+
+#### Install Docker-COmpose
+
+https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04
 
 1.  Clone this module
 
