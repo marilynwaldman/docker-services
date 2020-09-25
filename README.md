@@ -6,10 +6,17 @@
 
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
 
-#### Install Docker-COmpose
+#### Install docker-compose
 
 https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04
 
+#### Install java
+
+```aidl
+sudo apt install default-jre            
+sudo apt install openjdk-11-jre-headless
+sudo apt install openjdk-8-jre-headless 
+```
 1.  Clone this module
 
 ```aidl
