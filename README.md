@@ -4,7 +4,11 @@
 
 #### Install Docker
 
+```aidl
 sudo snap install docker
+```
+
+
 
 ```aidl
 sudo apt install default-jre            
