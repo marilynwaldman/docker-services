@@ -24,6 +24,10 @@ sudo apt install openjdk-8-jre-headless
 ```
 3.  Follow instructions from the above blog
 
+```aidl
+http://ec2-35-163-8-236.us-west-2.compute.amazonaws.com:5601
+```
+
 4.  Run docker-compose down to stop services
 ```aidl
     sudo docker-compose down -v
