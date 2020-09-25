@@ -4,13 +4,7 @@
 
 #### Install Docker
 
-https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
-
-#### Install docker-compose
-
-https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04
-
-#### Install java
+sudo snap install docker
 
 ```aidl
 sudo apt install default-jre            
@@ -26,13 +20,13 @@ sudo apt install openjdk-8-jre-headless
 
 2.  Run docker-compose  up to start services
 ```aidl
-    docker-compose up -d
+    sudo docker-compose up -d
 ```
 3.  Follow instructions from the above blog
 
 4.  Run docker-compose down to stop services
 ```aidl
-    docker-compose down -v
+    sudo docker-compose down -v
 ```
 
 
