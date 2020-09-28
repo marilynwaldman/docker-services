@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2a16f0a-a410-469f-95a8-a6035ab5e030" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-03-2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04-2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-05-2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-06-2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-07-2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-08-2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-09-2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-10-2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-11-2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-12-2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-13-2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-17-2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-18-2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-19-2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-20-2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-21-2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/covid.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

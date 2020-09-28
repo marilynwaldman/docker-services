@@ -10,12 +10,8 @@ sudo snap install docker
 
 
 
-```aidl
-sudo apt install default-jre            
-sudo apt install openjdk-11-jre-headless
-sudo apt install openjdk-8-jre-headless 
-```
-1.  Clone this module
+
+1.  Clone this module both on ec2 and on your local machine
 
 ```aidl
    git clone https://github.com/marilynwaldman/docker-services
